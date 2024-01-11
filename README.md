@@ -38,7 +38,7 @@ En mi tiempo libre, disfruto del senderismo, jugar basketball y la misma program
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img align="left" width=150px alt="Viking" src="https://github.com/Ragnaars/Ragnaars/blob/main/ragnaars2.jpeg" />
+<img align="left" width=150px alt="Viking" src="https://github.com/Ragnaars/Ragnaars/blob/main/basket.jpeg" />
 
 ## 🌐 Perfil profesional
 
