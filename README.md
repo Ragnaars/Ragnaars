@@ -83,7 +83,7 @@ En mi tiempo libre, disfruto del senderismo,baloncesto y la misma programación.
 
 
 <details> 
-  <summary> <h2> 🚀 GitHub Stats y Streak Stats</h2></summary>
+  <summary> <h2> 🚀 GitHub Stats </h2></summary>
   <div>
   <samp>
     <h2 align="center"> Estadísticas de Github  </h2>
