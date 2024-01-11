@@ -1,4 +1,4 @@
-<div aling = "center">
+<div align = "center">
 <h2>Hola, soy Orlando. Bienvenidos a mi perfil! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 <a href="https://linkedin.com/in/abdoachhoubi" target="_blank">
 <hr>
