@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 </div>
-<img align="right" width=300px alt="Unicorn" src="https://www.bing.com/images/create/crea-una-foto-relacionada-con-ragnar-estilo-retro-/1-659f6e3cab2c4802b618fae90883c99f?id=m4QYm0c9eOR041oLvUrnDg%3d%3d&view=detailv2&idpp=genimg&darkschemeovr=0&FORM=GCRIDP&mode=overlay" />
+<img align="right" width=300px alt="Unicorn" src="https://github.com/Ragnaars/Ragnaars/blob/main/ragnaars.jpeg" />
 ## 👀 Sobre mí
 
 Estudiante de Ingeniería en Informática en Duoc UC San Bernardo, Soy cofundador
