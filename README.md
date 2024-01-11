@@ -33,9 +33,7 @@ En mi tiempo libre, disfruto del senderismo,baloncesto y la misma programación.
 <p>-JavaScript <img src = "https://github.com/Ragnaars/Ragnaars/blob/main/js.png" width = "20px"></img></p>
 <p>-Angular <img src = "https://github.com/Ragnaars/Ragnaars/blob/main/ng.png" width = "20px"></img></p>
 
-## <img src = "https://github.com/Ragnaars/Ragnaars/blob/main/credly.png" width = "35px"></img>  Certificaciones
 
-<h4>Mis credenciales en Credly <a href = "https://www.credly.com/users/orlando-jafet-tobar-diaz/badges">aquí</a> </h4>  
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -46,6 +44,16 @@ En mi tiempo libre, disfruto del senderismo,baloncesto y la misma programación.
 <a href="https://www.linkedin.com/in/orlandotobardiaz/" target="_blank">
 <img height = "30" src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
+
+## <img src = "https://github.com/Ragnaars/Ragnaars/blob/main/credly.png" width = "35px"></img>  Certificaciones
+
+<h4>
+ 
+  Mis credenciales en Credly 
+  <img src = "https://www.gifsanimados.org/data/media/111/flecha-imagen-animada-0032.gif" width = "40px"></img>
+  <a href = "https://www.credly.com/users/orlando-jafet-tobar-diaz/badges">aquí</a> 
+  <img src = "https://www.gifsanimados.org/data/media/111/flecha-imagen-animada-0044.gif" width = "40px"></img> 
+</h4>  
 
 ## 📫 Contáctame
 
