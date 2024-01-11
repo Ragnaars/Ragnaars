@@ -71,6 +71,8 @@ Para poder contactarme de manera fácil, puedes escribirme a orlandoechoes@gmail
 
 ![](https://github-profile-trophy.vercel.app/?username=Ragnaars&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 
 
