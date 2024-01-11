@@ -60,8 +60,8 @@ En mi tiempo libre, disfruto del senderismo,baloncesto y la misma programación.
   
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-
-  <a href="mailto:orlandoechoes@gmail.com" target="blank" style="margin: 5px;">
+  <div class = "row">
+      <a href="mailto:orlandoechoes@gmail.com" target="blank" style="margin: 5px;">
     <img align="center" src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="azzar" height="30"/>
   </a>
 
@@ -72,30 +72,8 @@ En mi tiempo libre, disfruto del senderismo,baloncesto y la misma programación.
   <a href="https://www.facebook.com/orlando.tobardiaz/" target="blank" style="margin: 5px;">
     <img align="center" src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="azzar" height="30"/>
   </a>
-
-</div>
-
-## contacta
-<div class="container mt-3">
-  <div class="row justify-content-center align-items-center">
-    <div class="col-4 text-center">
-      <a href="mailto:orlandoechoes@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="azzar" height="30"/>
-      </a>
-    </div>
-
-  <div class="col-4 text-center">
-      <a href="https://www.instagram.com/ragnaarson/" target="_blank">
-        <img src="https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white" height="30" alt="instagram" />
-      </a>
-    </div>
-
-  <div class="col-4 text-center">
-      <a href="https://www.facebook.com/orlando.tobardiaz/" target="_blank">
-        <img src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="azzar" height="30"/>
-      </a>
-    </div>
   </div>
+  
 </div>
 
 
