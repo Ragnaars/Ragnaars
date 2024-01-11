@@ -58,6 +58,10 @@ Para poder contactarme de manera fácil, puedes escribirme a orlandoechoes@gmail
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ragnaars&layout=compact)
 
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Ragnaars&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+
 
 
 
