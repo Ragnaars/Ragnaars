@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 </div>
-<img align="right" width=300px alt="Unicorn" src="https://github.com/Ragnaars/Ragnaars/blob/main/ragnaars.jpeg" />
+<img align="right" width=300px alt="Viking" src="https://github.com/Ragnaars/Ragnaars/blob/main/ragnaars.jpeg" />
 
 ## 👀 Sobre mí
 
@@ -44,6 +44,7 @@ baloncesto y la misma programación.
 
 <h4>Mis credenciales en Credly <a href = "https://www.credly.com/users/orlando-jafet-tobar-diaz/badges">aquí</a> </h4>  
 
+<img align="left" width=200px alt="Viking" src="https://github.com/Ragnaars/Ragnaars/blob/main/ragnaars2.jpeg" />
 
 ## 🌐 Perfil
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=your_linkedin_profile)]("https://www.linkedin.com/in/orlandotobardiaz/")
