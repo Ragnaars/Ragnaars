@@ -59,7 +59,7 @@ En mi tiempo libre, disfruto del senderismo,baloncesto y la misma programación.
 
   
 
-<div style="display: flex; flex-wrap: wrap;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
 
   <a href="mailto:orlandoechoes@gmail.com" target="blank">
     <img align="center" src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="azzar" height="30"/>
