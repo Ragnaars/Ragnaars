@@ -60,7 +60,7 @@ Para poder contactarme de manera fácil, puedes escribirme a orlandoechoes@gmail
 
 <img aling = "left" src = "https://github-readme-stats.vercel.app/api?username=Ragnaars&show_icons=true"></img>
   
-<img align = "right" src="https://github-readme-streak-stats.herokuapp.com/?user=Ragnaars&show_icons=true" alt="mystreak"></img>
+<img align = "right" src="https://github-readme-streak-stats.herokuapp.com/?user=Ragnaars&"></img>
 
 
 
