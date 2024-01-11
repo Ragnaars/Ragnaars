@@ -40,9 +40,6 @@ baloncesto y la misma programación.
 <p>-JavaScript</p>
 <p>-Angular</p>
 
-## 💼 Experiencia
-Colaboro con mi colega @Djsq200599 en Quantum Waves Developer Ltda, donde trabajamos en emocionantes proyectos en la intersección de la tecnología y la innovación.
-
 ## 📜 Certificaciones
 [Mis credenciales en Credly](https://www.credly.com/users/orlando-jafet-tobar-diaz/badges)
 
