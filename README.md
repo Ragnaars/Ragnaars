@@ -1,5 +1,7 @@
 <div align = "center">
 <h2>Hola, soy <a href="https://github.com/Ragnaars">Orlando Tobar<a>, Bienvenidos a mi perfil! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
   <a href="https://www.linkedin.com/in/orlandotobardiaz/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -51,6 +53,8 @@ baloncesto y la misma programación.
 
 ## 📫 Contáctame
 Para poder contactarme de manera fácil, puedes escribirme a orlandoechoes@gmail.com 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 GitHub Stats y Streak Stats ⚡
 
