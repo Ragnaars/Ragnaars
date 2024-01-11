@@ -10,16 +10,8 @@
 
 
 <br>
-<div class = "row">
-  <div class = "col-6">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  </div>
-  <div class = "col-6">
-    <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Ragnaars">
-  </div>
-</div>
-<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="python" width="100">
-<img src="https://cdn.iconscout.com/icon/free/png-256/android-3521272-2944776.png" alt="android" width="100">
+
+
 
 
 
@@ -39,7 +31,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 </div>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ragnaars&theme=tokyonight" alt="mystreak"/>
-<img src="https://github-readme-stats.vercel.app/api?username=ragnaars" alt="mystreak"/>
+<div class = "row">
+  <div class = "col-6">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ragnaars&theme=tokyonight" alt="mystreak"/>
+  </div>
+  <div class = "col-6">
+    <img src="https://github-readme-stats.vercel.app/api?username=ragnaars" alt="mystreak"/>
+  </div>
+</div>
+    <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Ragnaars">
+
+
 
 
