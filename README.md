@@ -75,7 +75,7 @@ En mi tiempo libre, disfruto del senderismo,baloncesto y la misma programación.
     <details open>
   <summary><h3>🛠️ Top lenguajes</h3></summary>
             <p align="center">
-        <a href="https://github.com/1999AZZAR/">
+        <a href="https://github.com/Ragnaars/">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ragnaars&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
           alt="1999AZZAR :: overall Top Langs " /></a>
       </p>
@@ -91,7 +91,7 @@ En mi tiempo libre, disfruto del senderismo,baloncesto y la misma programación.
     <details open>
   <summary><h3>📈 Estadística</h3></summary>
         <p align="center">
-          <a href="https://github.com/1999AZZAR/">
+          <a href="https://github.com/Ragnaars/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Ragnaars&show_icons=true&theme=gruvbox&hide_border=true" />
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ragnaars&theme=gruvbox&hide_border=true" />
           </a>
