@@ -63,15 +63,18 @@ Para poder contactarme de manera fácil, puedes escribirme a orlandoechoes@gmail
 </div>
 
 
-## 🛠️ Top Languages
+## 🛠️   Lenguajes más utilizados
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ragnaars&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆 Trofeos de GitHub 
 
 ![](https://github-profile-trophy.vercel.app/?username=Ragnaars&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## ⚡ Fun fact: 
+-Si te preguntas el por qué de los vikingos. Solo soy fan de Vikings:D
 
 
 
