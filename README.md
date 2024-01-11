@@ -2,7 +2,7 @@
 
 
 [<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="python" width="100">](https://docs.python.org/3/library/index.html)
-[<img src="https://c0.klipartz.com/pngpicture/620/322/gratis-png-angularjs-ruby-%E2%80%8B%E2%80%8Bon-rails-aplicacion-web-de-mecanografia-icon-hacker.png" alt="java" width="100">](https://docs.oracle.com/en/java/)
+[<img src="https://c0.klipartz.com/pngpicture/269/178/gratis-png-angularjs-iconos-de-computadora-graficos-javascript-icono-javascript.png" alt="java" width="100">](https://docs.oracle.com/en/java/)
 [<img src="[https://cdn.iconscout.com/icon/free/png-256/kotlin-283155.png](https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png)" alt="kotlin" width="100">](https://kotlinlang.org/docs/home.html)
 [<img src="https://cdn.iconscout.com/icon/free/png-256/android-3521272-2944776.png" alt="android" width="100">](https://developer.android.com/reference)
 
