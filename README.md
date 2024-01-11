@@ -49,18 +49,18 @@ baloncesto y la misma programación.
 ## 📫 Contáctame
 Para poder contactarme de manera fácil, puedes escribirme a orlandoechoes@gmail.com 
 
-## 🚀 GitHub Stats
+## 🚀 GitHub Stats y Streak Stats ⚡
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ragnaars&show_icons=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ragnaars&theme=tokyonight" alt="mystreak"/>
 
 ## 🛠️ Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ragnaars&layout=compact)
 
 
-## ⚡ Streak Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ragnaars&theme=tokyonight" alt="mystreak"/>
+
  
 
 
