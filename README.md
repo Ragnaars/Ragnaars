@@ -1,5 +1,6 @@
-### Hola, soy Orlando 👋
-
+<div aling = "center">
+  ### Hola, soy Orlando 👋
+<hr>
 <a href="https://www.linkedin.com/in/orlandotobardiaz/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -29,3 +30,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
+
