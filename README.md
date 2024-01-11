@@ -57,9 +57,9 @@ Para poder contactarme de manera fácil, puedes escribirme a orlandoechoes@gmail
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 GitHub Stats y Streak Stats ⚡
-<div align = "center">
-<img src = "https://github-readme-stats.vercel.app/api?username=Ragnaars&show_icons=true"></img>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ragnaars&theme=tokyonight" alt="mystreak"/>
+<div>
+<img aling = "left" src = "https://github-readme-stats.vercel.app/api?username=Ragnaars&show_icons=true"></img>
+<img align = "right" src="https://github-readme-streak-stats.herokuapp.com/?user=Ragnaars&theme=tokyonight" alt="mystreak"/>
 </div>
 
 
