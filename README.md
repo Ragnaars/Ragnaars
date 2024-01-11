@@ -80,13 +80,13 @@ En mi tiempo libre, disfruto del senderismo,baloncesto y la misma programación.
 
 
 <details> 
-  <summary> <h2>🚀 GitHub Stats y Streak Stats ⚡</h2></summary>
+  <summary> <h2> 🚀 GitHub Stats y Streak Stats</h2></summary>
   <div>
   <samp>
     <h2 align="center"> Estadísticas de Github  </h2>
       <br/>
     <details open>
-  <summary><h3>🛠️ Top lenguajes</h3></summary>
+  <summary><h3> 🛠️ Top lenguajes</h3></summary>
             <p align="center">
         <a href="https://github.com/Ragnaars/">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ragnaars&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
