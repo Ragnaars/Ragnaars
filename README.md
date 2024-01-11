@@ -36,12 +36,14 @@ baloncesto y la misma programación.
 
 ## 🌱 Estoy constantemente aprendiendo de ...
 
-<p>-Python</p>
-<p>-JavaScript</p>
-<p>-Angular</p>
+<p>-Python <img src = "https://github.com/Ragnaars/Ragnaars/blob/main/py.png" width = "20px" ></img></p> 
+<p>-JavaScript <img src = "https://github.com/Ragnaars/Ragnaars/blob/main/js.png" width = "20px"></img></p>
+<p>-Angular <img src = "https://github.com/Ragnaars/Ragnaars/blob/main/ng.png" width = "20px"></img></p>
 
-## 📜 Certificaciones
-[Mis credenciales en Credly](https://www.credly.com/users/orlando-jafet-tobar-diaz/badges)
+## <img src = "https://github.com/Ragnaars/Ragnaars/blob/main/credly.png" width = "35px"></img>  Certificaciones
+
+<h4>Mis credenciales en Credly <a href = "https://www.credly.com/users/orlando-jafet-tobar-diaz/badges">aquí</a> </h4>  
+
 
 ## 🌐 Perfil
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=your_linkedin_profile)]("https://www.linkedin.com/in/orlandotobardiaz/")
