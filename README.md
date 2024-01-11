@@ -9,6 +9,11 @@
 <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 
+<div align="center">
+  <img  src="https://github.com/Ragnaars/Ragnaars/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 
 [<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="python" width="100">](https://docs.python.org/3/library/index.html)
 [<img src="https://iconos8.es/icon/j9DnICNnlhGk/angularjs" alt="java" width="100">](https://docs.oracle.com/en/java/)
