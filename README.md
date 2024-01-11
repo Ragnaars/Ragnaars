@@ -1,5 +1,5 @@
 <div align = "center">
-<h2>Hola, soy <a href="https://github.com/Ragnaars">Orlando Tobar<a>, Bienvenidos a mi perfil! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
+<h2>Hola, <a href="https://github.com/Ragnaars">Orlando Tobar<a> por aquí <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
   <a href="https://www.linkedin.com/in/orlandotobardiaz/" target="_blank">
