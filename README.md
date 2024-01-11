@@ -10,7 +10,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
-[![ragnaar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ragnaars)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="python" width="100">
 <img src="https://cdn.iconscout.com/icon/free/png-256/android-3521272-2944776.png" alt="android" width="100">
 
@@ -31,4 +30,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 </div>
+[![ragnaar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ragnaars)](https://github.com/anuraghazra/github-readme-stats)
 
