@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 -->
 </div>
 <img align="right" width=300px alt="Unicorn" src="https://github.com/Ragnaars/Ragnaars/blob/main/ragnaars.jpeg" />
+
 ## 👀 Sobre mí
 
 Estudiante de Ingeniería en Informática en Duoc UC San Bernardo, Soy cofundador
