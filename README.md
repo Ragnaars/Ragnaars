@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 </div>
-<img align="right" width=210px alt="Viking" src="https://github.com/Ragnaars/Ragnaars/blob/main/ragnaars.jpeg" style="border-radius: 50">
+<img align="right" width=210px alt="Viking" src="https://github.com/Ragnaars/Ragnaars/blob/main/ragnaars.jpeg">
 
 
 ## 👀 Sobre mí
