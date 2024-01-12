@@ -23,10 +23,7 @@ Here are some ideas to get you started:
 
 ## 👀 Sobre mí
 
-Estudiante de Ingeniería en Informática en Duoc UC San Bernardo, Soy cofundador
-de Quantum Wave Developers, una iniciativa compartida con un compañero, basada en el desarrollo de
-aplicaciones móviles. 
-En mi tiempo libre, disfruto del senderismo, jugar basketball y la misma programación.
+Estudiante de Ingeniería en Informática en Duoc UC San Bernardo y cofundador de Quantum Wave Developers, empresa destinada al desarrollo de aplicaciones móviles. En mis tiempos libres, disfruto del senderismo, juego al baloncesto y, cómo no, me dedico al desarrollo de mis propios proyectos.
 
 ## 🌱 Estoy constantemente aprendiendo de ...
 
