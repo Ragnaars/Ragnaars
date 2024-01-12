@@ -49,13 +49,9 @@ En mi tiempo libre, disfruto del senderismo, jugar basketball y la misma program
 ## <img src = "https://github.com/Ragnaars/Ragnaars/blob/main/credly.png" width = "35px"></img>  Certificaciones
 
 <h4>
- 
-  Mis credenciales en Credly 
-  
+  Mis credenciales en Credly   
   <img src = "https://www.gifsanimados.org/data/media/111/flecha-imagen-animada-0032.gif" width = "40px"></img>
-  
   <a href = "https://www.credly.com/users/orlando-jafet-tobar-diaz/badges">aquí</a> 
-  
   <img src = "https://www.gifsanimados.org/data/media/111/flecha-imagen-animada-0044.gif" width = "40px"></img> 
 </h4>  
 
