@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 </div>
-<img align="right" width=210px alt="Viking" src="https://github.com/Ragnaars/Ragnaars/blob/main/ragnarO.jpeg">
+<img align="right" width=210px alt="Viking" src="https://github.com/Ragnaars/Ragnaars/blob/main/RagnarO.jpeg">
 
 
 ## 👀 Sobre mí
@@ -38,7 +38,7 @@ En mi tiempo libre, disfruto del senderismo, jugar basketball y la misma program
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img align="left" width=150px alt="Viking" src="https://github.com/Ragnaars/Ragnaars/blob/main/ragnarElegante.jpeg" />
+<img align="left" width=150px alt="Viking" src="https://github.com/Ragnaars/Ragnaars/blob/main/rangarElegante.jpeg" />
 
 ## 🌐 Perfil profesional
 
